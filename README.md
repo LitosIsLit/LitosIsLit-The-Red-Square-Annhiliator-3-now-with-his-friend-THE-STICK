@@ -1,2 +1,2 @@
-# LitosIsLit-The-Red-Square-Annhiliator-3-now-with-his-friend-THE-STICK
-DESTROY ALL PIGS
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
